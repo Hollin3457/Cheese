@@ -14,6 +14,7 @@ public class ToggleCheeseVisibility : MonoBehaviour
 
     public void ToggleCheese()
     {
+        // is this correct??
         isCheeseVisible = !isCheeseVisible;
         cheeseObject.SetActive(isCheeseVisible);
     }
