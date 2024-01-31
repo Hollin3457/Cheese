@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{FA4F6BBB-16EA-DBC6-11F9-FF8E8A25311B}</ProjectGuid>
+    <ProjectGuid>{BF3090FC-09F6-8F67-D0D1-87487E91DD53}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Microsoft.MixedReality.Toolkit.Services.SpatialAwarenessSystem</AssemblyName>
@@ -616,15 +616,15 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="Microsoft.MixedReality.Toolkit.csproj">
-      <Project>{A558C5CD-482B-63E5-FE5E-69FA616F6B78}</Project>
+      <Project>{25043501-8C4E-2BC0-7EC8-2C0EA71781F9}</Project>
       <Name>Microsoft.MixedReality.Toolkit</Name>
     </ProjectReference>
     <ProjectReference Include="UnityEditor.UI.csproj">
-      <Project>{8101EFBE-D057-0996-32C7-E33E901DF31D}</Project>
+      <Project>{999E5718-722E-5001-06EA-29CE9EC61AB6}</Project>
       <Name>UnityEditor.UI</Name>
     </ProjectReference>
     <ProjectReference Include="UnityEngine.UI.csproj">
-      <Project>{4D3C9D4C-AFE7-F0F8-0F2E-893783B72B12}</Project>
+      <Project>{91F343E1-15B3-F6B3-B8CC-4A938F660F4D}</Project>
       <Name>UnityEngine.UI</Name>
     </ProjectReference>
   </ItemGroup>

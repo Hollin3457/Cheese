@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{19A4BBCB-3A73-E967-56B5-6DC3EE8797C4}</ProjectGuid>
+    <ProjectGuid>{F3BC818A-9C47-3B8B-3DF6-2D147909DA1F}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Microsoft.MixedReality.Toolkit.Providers.XRSDK.Oculus</AssemblyName>
@@ -606,31 +606,31 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="Microsoft.MixedReality.Toolkit.Async.csproj">
-      <Project>{C1166FAE-BA06-4179-755D-EB72A8E7A110}</Project>
+      <Project>{CAE22AED-5F44-6AC9-C74E-48FB9798379C}</Project>
       <Name>Microsoft.MixedReality.Toolkit.Async</Name>
     </ProjectReference>
     <ProjectReference Include="Microsoft.MixedReality.Toolkit.csproj">
-      <Project>{A558C5CD-482B-63E5-FE5E-69FA616F6B78}</Project>
+      <Project>{25043501-8C4E-2BC0-7EC8-2C0EA71781F9}</Project>
       <Name>Microsoft.MixedReality.Toolkit</Name>
     </ProjectReference>
     <ProjectReference Include="Microsoft.MixedReality.Toolkit.Services.InputSystem.csproj">
-      <Project>{470E31D5-3902-72F7-1635-152E250CB801}</Project>
+      <Project>{63C37EC3-CF8A-FC72-85BB-504F9014DBEC}</Project>
       <Name>Microsoft.MixedReality.Toolkit.Services.InputSystem</Name>
     </ProjectReference>
     <ProjectReference Include="Microsoft.MixedReality.Toolkit.SDK.csproj">
-      <Project>{26B83B89-5D4A-749C-87BF-9F8C743C77C1}</Project>
+      <Project>{E700293D-AF56-8313-DB39-B11E044310EA}</Project>
       <Name>Microsoft.MixedReality.Toolkit.SDK</Name>
     </ProjectReference>
     <ProjectReference Include="Microsoft.MixedReality.Toolkit.Providers.XRSDK.csproj">
-      <Project>{BB5632EA-C22E-CA60-A5FD-26173CC6F756}</Project>
+      <Project>{FA4F85DD-EA30-BF91-F96D-DA3F86059F88}</Project>
       <Name>Microsoft.MixedReality.Toolkit.Providers.XRSDK</Name>
     </ProjectReference>
     <ProjectReference Include="UnityEditor.UI.csproj">
-      <Project>{8101EFBE-D057-0996-32C7-E33E901DF31D}</Project>
+      <Project>{999E5718-722E-5001-06EA-29CE9EC61AB6}</Project>
       <Name>UnityEditor.UI</Name>
     </ProjectReference>
     <ProjectReference Include="UnityEngine.UI.csproj">
-      <Project>{4D3C9D4C-AFE7-F0F8-0F2E-893783B72B12}</Project>
+      <Project>{91F343E1-15B3-F6B3-B8CC-4A938F660F4D}</Project>
       <Name>UnityEngine.UI</Name>
     </ProjectReference>
   </ItemGroup>

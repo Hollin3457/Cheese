@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{1CBE6FBF-88BD-9BC0-8794-98AA3166D7B1}</ProjectGuid>
+    <ProjectGuid>{DFB5A98C-18C8-9954-57B4-548FDB79DCEA}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Microsoft.MixedReality.Toolkit.Gltf</AssemblyName>
@@ -666,15 +666,15 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="Microsoft.MixedReality.Toolkit.Async.csproj">
-      <Project>{C1166FAE-BA06-4179-755D-EB72A8E7A110}</Project>
+      <Project>{CAE22AED-5F44-6AC9-C74E-48FB9798379C}</Project>
       <Name>Microsoft.MixedReality.Toolkit.Async</Name>
     </ProjectReference>
     <ProjectReference Include="UnityEditor.UI.csproj">
-      <Project>{8101EFBE-D057-0996-32C7-E33E901DF31D}</Project>
+      <Project>{999E5718-722E-5001-06EA-29CE9EC61AB6}</Project>
       <Name>UnityEditor.UI</Name>
     </ProjectReference>
     <ProjectReference Include="UnityEngine.UI.csproj">
-      <Project>{4D3C9D4C-AFE7-F0F8-0F2E-893783B72B12}</Project>
+      <Project>{91F343E1-15B3-F6B3-B8CC-4A938F660F4D}</Project>
       <Name>UnityEngine.UI</Name>
     </ProjectReference>
   </ItemGroup>
