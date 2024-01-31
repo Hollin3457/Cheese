@@ -66,8 +66,8 @@
   <ItemGroup>
     <Compile Include="Assets\CheeseTeleporter.cs" />
     <Compile Include="Assets\CheeseThrower.cs" />
+    <Compile Include="Assets\RandomColorChanger.cs" />
     <Compile Include="Assets\Scenes\Script\GrabAndThrow.cs" />
-    <Compile Include="Assets\Scenes\Script\RandomColorChanger.cs" />
     <Compile Include="Assets\Scenes\Script\TeleportAndColorReset.cs" />
     <Compile Include="Assets\Scenes\Script\TeleportObject.cs" />
     <Compile Include="Assets\ToggleCheeseVisibility.cs" />
